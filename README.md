@@ -1,7 +1,7 @@
 # wcbear-public
 
-> A single-file HTML dashboard for chat analytics — UI preview only.
-> 单文件聊天数据分析 dashboard —— 仅 UI 预览。
+> A single-file HTML dashboard for chat analytics.
+> 用于某个聊天应用的数据分析 dashboard
 
 ---
 
